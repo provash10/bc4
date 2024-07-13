@@ -1,0 +1,8 @@
+color extension chrome
+color zila 
+color picer 
+pixie
+
+Anchot Tag= Link up kora <a href="#"> </a>
+
+For Gap/Space= &nbsp &nbsp &nbsp &nbsp 
